@@ -1,0 +1,37 @@
+.area{
+    margin-left: 650px;
+    margin-top: 200px;
+    width: 200px;
+    height: 200px;
+    background-color: #000;
+    border-radius: 70px;
+}
+.countin{
+   color: #fff;
+    text-align: center;
+    padding-top: 20px;
+}
+.plus{
+    width: 40px;
+    height: 40px;
+    border-radius: 140px;
+    text-align: center;
+    cursor: pointer;
+}
+.clear{
+    margin-top: 30px;
+    width: 20px;
+    height: 20px;
+    border-radius: 140px;
+    cursor: pointer;
+}
+.card{
+    display: block;
+    text-align: center;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
